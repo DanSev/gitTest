@@ -1,0 +1,3 @@
+create a folder
+cd into folder
+git init
