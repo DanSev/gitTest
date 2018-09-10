@@ -1,3 +1,8 @@
 create a folder
 cd into folder
 git init
+git add .
+git commit -m "first commit"
+git remote add https://github.com/DanSev/gitTest.git
+git push -u origin master
+
